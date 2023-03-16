@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\wrk\evm\webcam
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV: D:/wrk/evm/opencv-master/mingw-build/install (found version "4.5.1") found components:  core imgproc highgui objdetect 
+-- Found OpenCV 4.5.1 in D:/wrk/evm/opencv-master/mingw-build/install/x64/mingw/lib
+-- You might need to add D:/wrk/evm/opencv-master/mingw-build/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/wrk/evm/webcam/cmake-build-debug

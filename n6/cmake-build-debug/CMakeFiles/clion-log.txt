@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\wrk\evm\usb
+CMake Error at CMakeLists.txt:6 (target_include_directories):
+  Cannot specify include directories for target "usb" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/wrk/evm/usb/cmake-build-debug/CMakeFiles/CMakeOutput.log".
